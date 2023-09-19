@@ -8,3 +8,4 @@
 - Databases: MongoDB, Postgresql, MySQL (AWS Aurora)
 - DevOps: Docker, Sentry, AWS EC2, AWS ECS, AWS Lambda, AWS S3, AWS CloudFront
 - Message Brokers: RabbitMQ
+- Chrome extension
