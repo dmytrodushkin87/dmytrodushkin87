@@ -1,7 +1,7 @@
 ### Full stack developer
 
-- Languages: JavaScript, TypeScript, Ruby, PHP, HTML5, CSS3, Python, Golang
-- Frameworks: Express, NestJS, Node.js, React.js, Angular, Vue.js, Ruby on Rails, Django
+- Languages: JavaScript, TypeScript, Ruby, PHP, HTML5, CSS3
+- Frameworks: Express, NestJS, Node.js, React.js, Angular, Vue.js, Ruby on Rails
 - Architecture: REST API, GraphQL, Microservices
 - Technologies: Node.js, Blockchain (Stellar)
 - Testing: Jest, Mocha, Postman, Swagger
